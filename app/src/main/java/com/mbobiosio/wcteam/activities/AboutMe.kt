@@ -7,7 +7,6 @@ import android.support.v4.app.NavUtils
 import android.view.MenuItem
 import com.bumptech.glide.Glide
 import com.mbobiosio.wcteam.R
-import com.rohitarya.glide.facedetection.transformation.core.GlideFaceDetector
 import kotlinx.android.synthetic.main.about_me_activity.*
 import kotlinx.android.synthetic.main.about_me_content.*
 
