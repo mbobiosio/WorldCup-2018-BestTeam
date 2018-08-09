@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CarsList</string>
+    <string name="manufacturer">Manufacturer:</string>
+    <string name="app_description">World Cup 2018 Best 11</string>
+    <string name="country">Country</string>
+    <string name="position">Position</string>
+    <string name="club">Club</string>
+    <string name="details">DETAILS</string>
+
+    <string name="developer_name">Mbuodile Obiosio</string>
+    <string name="developer">Developer</string>
+    <string name="about">About</string>
+    <string name="info">I am a self taught, self drilled Full-Stack Web and Android Developer. Passion drives me and the hunger to .</string>
+</resources>
